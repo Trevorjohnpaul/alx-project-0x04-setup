@@ -15,7 +15,7 @@
     "paths": {
       "@/*": ["./*"]
     },
-    "ignoreDeprecations": "6.0" // <--- Add this line
+    "ignoreDeprecations": "6.0"
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
   "exclude": ["node_modules"]
